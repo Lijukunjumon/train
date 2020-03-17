@@ -1436,7 +1436,7 @@ glFlush();
 int main(int argc,char** argv)
 {
 int c_menu;
-	printf("Project by CSEMiniProjects.com\n");
+	printf("Project by Liju Kunjumon\n");
     printf("--------------------------------------------------------------------------------");
     printf("                    ARRIVAL AND DEPARTURE OF TRAIN                              ");
     printf("--------------------------------------------------------------------------------");
